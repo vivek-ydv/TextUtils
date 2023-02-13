@@ -4,9 +4,9 @@ TextUtil is a utility to manipulate your text; it is built using ReactJs.
 Live : https://textutils-black.vercel.app/
 
 ## ScreenShots
-![TextUtils-Home](https://user-images.githubusercontent.com/94732358/218368323-332b3745-458e-4238-b2fd-
+![TextUtils-Home](https://user-images.githubusercontent.com/94732358/218368323-332b3745-458e-4238-b2fd-d416a6b8c04f.png)
 ![TextUtils-Home (1)](https://user-images.githubusercontent.com/94732358/218368335-b03b9f74-00ca-468a-972a-3a32137dffba.png)
-d416a6b8c04f.png)
+
 
 
 # How to Install and Run the Project
