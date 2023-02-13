@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# TextUtils
+TextUtil is a utility to manipulate your text; it is built using ReactJs.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live : https://textutils-black.vercel.app/
 
-## Available Scripts
+## ScreenShots
+![TextUtils-Home](https://user-images.githubusercontent.com/94732358/218368323-332b3745-458e-4238-b2fd-
+![TextUtils-Home (1)](https://user-images.githubusercontent.com/94732358/218368335-b03b9f74-00ca-468a-972a-3a32137dffba.png)
+d416a6b8c04f.png)
+
+
+# How to Install and Run the Project
 
 In the project directory, you can run:
 
